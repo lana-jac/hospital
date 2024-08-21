@@ -19,7 +19,7 @@ import model.*;
 
 public class Main {
 
-
+//hello world
 	private static Hospital hospital = Hospital.getInstance();
 	private static OutputDocument document = new OutputDocument();
 	private static Map<String,Command> commands = new HashMap<>();
